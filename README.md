@@ -2,7 +2,7 @@
 <!-- <p align="center">
   <img src="" alt="Shah Tanzeem Afsar MERN Stack Developer Banner" />
 </p> -->
-[![Whats-App-Image-2025-11-19-at-12-29-35-AM.jpg](https://i.postimg.cc/MHrN9VR1/Whats-App-Image-2025-11-19-at-12-29-35-AM.jpg)](https://postimg.cc/30mtRytw)
+<!--[![Whats-App-Image-2025-11-19-at-12-29-35-AM.jpg](https://i.postimg.cc/MHrN9VR1/Whats-App-Image-2025-11-19-at-12-29-35-AM.jpg)](https://postimg.cc/30mtRytw) -->
 
 <h1 align="center">Hi 👋, I'm Shah Tanzeem Afsar</h1>
 <h3 align="center">MERN Stack Developer | CSE Student from Bangladesh</h3>
