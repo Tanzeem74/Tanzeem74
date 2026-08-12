@@ -1,70 +1,152 @@
-<!-- ====== Banner Section ====== -->
-<!-- <p align="center">
-  <img src="" alt="Shah Tanzeem Afsar MERN Stack Developer Banner" />
-</p> -->
-[![Whats-App-Image-2025-11-19-at-12-29-35-AM.jpg](https://i.postimg.cc/MHrN9VR1/Whats-App-Image-2025-11-19-at-12-29-35-AM.jpg)](https://postimg.cc/30mtRytw)
+# 👋 Hi, I'm Shah Tanzeem Afsar
 
-<h1 align="center">Hi 👋, I'm Shah Tanzeem Afsar</h1>
-<h3 align="center">MERN Stack Developer | CSE Student from Bangladesh</h3>
+<h3 align="center">
+  CSE Student • Full-Stack Developer • AI/ML Enthusiast • Researcher
+</h3>
 
-
----
-
-## 🧑‍💻 About Me
-- 🎓 CSE Student from Bangladesh  
-- 🌱 Currently improving MERN stack & Flutter  
-- 💻 Passionate about frontend & backend web development  
-- ⚡ Love building clean UI & real-world projects  
-- 🚀 Always learning new technologies  
-
----
-
-## 🛠 Languages & Tools  
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tanzeem74&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 Final-year **Computer Science & Engineering student** from Bangladesh.
+
+💻 Passionate about building **scalable web applications, REST APIs, and real-world software solutions**.
+
+🧠 Exploring **Artificial Intelligence, Machine Learning, NLP, and modern software engineering**.
+
+🔬 Interested in **research-driven development** and applying AI to solve practical problems.
+
+🌱 Currently improving my skills in **Full-Stack Development, AI/ML, and Backend Engineering**.
+
+🚀 I enjoy turning ideas into functional, user-focused products while continuously learning new technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</p>
+
+### 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40"/>
+</p>
+
+### 🤖 AI / ML & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 🚀 What I Work With
+
+- 🔹 Full-Stack Web Development
+- 🔹 RESTful API Development
+- 🔹 Authentication & Authorization
+- 🔹 Database Design & Management
+- 🔹 Backend Architecture
+- 🔹 Artificial Intelligence & Machine Learning
+- 🔹 Natural Language Processing
+- 🔹 Research & Experimental Projects
+- 🔹 Responsive UI Design
+
+---
+
+## 📌 Featured Project
+
+### 🏠 RentNest — Rental Management Platform
+
+A full-stack rental management system designed around multiple user roles and real-world property management workflows.
+
+**Tech Stack:**
+`TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `JWT`
+
+---
+
+## 🔬 Research Interests
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Natural Language Processing
+- 🔐 Privacy-Preserving AI
+- ⛓️ Blockchain & AI
+- 🏥 AI Applications in Healthcare
+- 🧩 Large Language Models
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/shah-tanzeem-afsar/" target="_blank">
-    <img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
   </a>
 
   <a href="https://fb.com/shah.tanzeem.7" target="_blank">
-    <img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeem74&theme=dark" alt="tanzeem74" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanzeem74&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanzeem74&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzeem74&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanzeem74&label=Profile%20views&color=0e75b6&style=flat" alt="tanzeem74" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
+---
 
-### ⭐ Thanks for visiting my profile!
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+
+<p align="center">
+  <i>Building • Learning • Researching • Improving</i>
+</p>
