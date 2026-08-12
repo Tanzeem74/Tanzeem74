@@ -85,17 +85,6 @@
 
 ---
 
-## 📌 Featured Project
-
-### 🏠 RentNest — Rental Management Platform
-
-A full-stack rental management system designed around multiple user roles and real-world property management workflows.
-
-**Tech Stack:**
-`TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `JWT`
-
----
-
 ## 🔬 Research Interests
 
 - 🤖 Artificial Intelligence & Machine Learning
